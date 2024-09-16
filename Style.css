@@ -29,3 +29,36 @@ li{
     display: inline-block;
     margin: 20px;
 }
+h2{
+    font-size: 56px;
+line-height: 10px;
+font-family: sans-serif;
+}
+span{
+    color: rgb(132, 13, 201);
+}
+p{
+    line-height: 20px;
+    max-width: 500px;
+}
+img{
+    width: 600px;
+}
+
+a{
+    color: white;
+}
+a:hover{
+    color: rgb(132, 13, 201);
+    transition: 0.5s all;
+}
+#Inscreva-se-btn{
+    border: 2px solid rgb(132, 13, 201);
+    padding: 10px;
+    border-radius: 15px;
+
+}
+#Inscreva-se-btn:hover{
+    background-color: rgb(132, 13, 201);
+    color: white;
+}
